@@ -1,0 +1,44 @@
+@font-face {
+   font-family: "Raleway-Regular";
+   font-weight: 400;
+   font-style: normal;
+   src: local("Raleway-Regular"), url(../fonts/Raleway-Regular.woff2) format("font-woff2"),
+      url(../fonts/Raleway-Regular.woff) format("font-woff");
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "Raleway-Italic";
+   font-weight: 400;
+   font-style: normal;
+   src: local("Raleway-Italic"), url(../fonts/Raleway-Italic.woff2) format("font-woff2"),
+      url(../fonts/Raleway-Italic.woff) format("font-woff");
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "Raleway-Medium";
+   font-weight: 400;
+   font-style: normal;
+   src: local("Raleway-Medium"), url(../fonts/Raleway-Medium.woff2) format("font-woff2"),
+      url(../fonts/Raleway-Medium.woff) format("font-woff");
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "Raleway-Bold";
+   font-weight: 400;
+   font-style: normal;
+   src: local("Raleway-Bold"), url(../fonts/Raleway-Bold.woff2) format("font-woff2"),
+      url(../fonts/Raleway-Bold.woff) format("font-woff");
+   font-display: swap;
+}
+
+@font-face {
+   font-family: "SeymourOne-Regular";
+   font-weight: 400;
+   font-style: normal;
+   src: local("SeymourOne-Regular"), url(../fonts/SeymourOne-Regular.woff2) format("font-woff2"),
+      url(../fonts/SeymourOne-Regular.woff) format("font-woff");
+   font-display: swap;
+}
