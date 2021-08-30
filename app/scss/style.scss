@@ -3,6 +3,7 @@
 @import "reset";
 @import "global";
 @import "libs";
+@import "animation";
 
 .header {
    background-color: $bg;
@@ -187,10 +188,6 @@
 .slider {
    padding: 40px 0;
    background-color: $bg;
-
-   &__title {
-      color: $default;
-   }
 
    &__title:after {
       background-color: $default;

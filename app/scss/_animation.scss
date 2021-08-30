@@ -1,0 +1,17 @@
+.slider__title-animation {
+   @extend %Sone-400;
+   background-image: url("../images/slider/text-bg.jpg");
+   color: transparent;
+   background-clip: text;
+   animation: animateSliderTitle 2s infinite linear alternate;
+}
+
+@keyframes animateSliderTitle {
+   from {
+      background-position: 100% 0%;
+   }
+
+   to {
+      background-position: 50% 100%;
+   }
+}

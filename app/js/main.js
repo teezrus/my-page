@@ -42,3 +42,4 @@
          scrollTop: top
       }, 1500);
    });
+   AOS.init();
